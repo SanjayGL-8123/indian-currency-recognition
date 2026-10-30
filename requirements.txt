@@ -1,0 +1,5 @@
+tensorflow>=2.13
+opencv-python
+pillow
+numpy
+pyttsx3
